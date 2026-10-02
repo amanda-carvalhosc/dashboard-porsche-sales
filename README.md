@@ -2,7 +2,7 @@
 
 Análise comercial avançada e painel interativo de vendas da Porsche, desenvolvido do absoluto zero a partir de uma base de dados sanitizada de 100 registros. Este projeto foi criado como solução para o Desafio de Projeto da **Digital Innovation One (DIO)**.
 
-🔗 **[CLIQUE AQUI PARA ACESSAR O DASHBOARD ONLINE](https://github.io)**
+🔗 **[CLIQUE AQUI PARA ACESSAR O DASHBOARD ONLINE](https://amanda-carvalhosc.github.io/dashboard-porsche-sales/)**
 
 ---
 
